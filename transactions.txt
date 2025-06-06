@@ -1,0 +1,15 @@
+Date/Time: 2025/06/06 10:48:13
+Cashier: 
+Items Purchased:
+- Cheesy Overload Burger | QTY: 2| Price: Php320.0
+- Bacon n Cheese Supreme | QTY: 2| Price: Php280.0
+- Cheesy Fries | QTY: 2| Price: Php140.0
+Total Amount: Php1480.0
+-----------------------------------------------------Date/Time: 2025/06/06 10:49:50
+Cashier: 
+Items Purchased:
+- Cheesy Fries | QTY: 1| Price: Php140.0
+- Cheesy Overload Burger | QTY: 2| Price: Php320.0
+- Double Cheese Burger | QTY: 3| Price: Php260.0
+Total Amount: Php1560.0
+-----------------------------------------------------
